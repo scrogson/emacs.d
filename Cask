@@ -1,0 +1,16 @@
+(source gnu)
+(source melpa)
+
+(depends-on "cask")
+(depends-on "ag")
+(depends-on "evil")
+(depends-on "evil-leader")
+(depends-on "alchemist")
+(depends-on "elixir-mode")
+(depends-on "company")
+(depends-on "magit")
+(depends-on "smartparens")
+(depends-on "rainbow-mode")
+(depends-on "rainbow-delimiters")
+(depends-on "erlang")
+
