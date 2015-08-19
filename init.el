@@ -14,6 +14,8 @@
 (add-to-list 'load-path (expand-file-name "bundles" user-emacs-directory))
 
 ;; To require a specfic bundle just require it for example...
+(require 'ui)
+(require 'keybindings)
 (require 'evil-bundle)
 
 (provide 'init)
